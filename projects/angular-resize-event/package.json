@@ -1,0 +1,26 @@
+{
+  "name": "@le2xx/angular-resize-event",
+  "version": "14.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/le2xx/angular-resize-event"
+  },
+  "homepage": "https://github.com/le2xx/angular-resize-event#readme",
+  "author": {
+    "name": "Martin Volek, le2xx",
+    "email": "martin@vdolek.cz"
+  },
+  "keywords": [
+    "angular",
+    "resized",
+    "event"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": ">= 12.2.0 < 14",
+    "@angular/core": ">= 12.2.0 < 14"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
